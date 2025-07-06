@@ -6,4 +6,4 @@ Features :
 
 ![image alt](https://github.com/KumudaKH/QR-Code-generator/blob/main/screenshot.png?raw=true)
 ![image alt](https://github.com/KumudaKH/QR-Code-generator/blob/main/screenshot.1.png?raw=true)
-![image alt]( 
+![image alt](https://github.com/KumudaKH/QR-Code-generator/blob/main/screenshot.2.png?raw=true)
