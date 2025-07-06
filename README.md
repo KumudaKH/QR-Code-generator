@@ -1,4 +1,4 @@
-A simple and responsive web application that generates QR codes for any text or URL inputs.Users can create and download QR codes instantly
+A simple and responsive web application that generates QR codes for any text or URL inputs.Users can create and download QR codes instantly.
 Features :
 -Generate QR Codes from text or URLs
 -Download QR Code as jpg 
