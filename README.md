@@ -4,3 +4,6 @@ Features :
 -Download QR Code as jpg 
 -Responsive and clean UI
 
+![image alt](https://github.com/KumudaKH/QR-Code-generator/blob/main/screenshot.png?raw=true)
+![image alt]( 
+![image alt]( 
